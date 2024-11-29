@@ -13,7 +13,7 @@ MEDICAMENTOS GENÉRICOS: Para todas as dores no seu corpo
 
 PERFUMES: Para todos os gostos
 
-![image](https://github.com/user-attachments/assets/5f5af559-e18a-48da-bbcf-479e77687651)
+![image](https://github.com/user-attachments/assets/a7cfde05-818c-4743-b4de-65b0ed210ec1)
 ![image](https://github.com/user-attachments/assets/b30af7c5-7531-4eba-a5cf-92e6ec80d1f2)
 ![image](https://github.com/user-attachments/assets/db4b57b3-bfbd-4590-870c-6786ee32c429)
 
