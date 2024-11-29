@@ -31,49 +31,73 @@ MEDICAMENTOS: Para todos que possuírem enfermidades que necessitam de medicaç�
 
 -
 DIPIRONA: para febres e dores
+
 ![image](https://github.com/user-attachments/assets/5951e483-34ad-4691-b465-cffd51e02be9)
 PARACETAMOL:é mais comumente definido como um analgésico, que alivia as dores, e um antitérmico, por combater a febre. 
+
 ![image](https://github.com/user-attachments/assets/ce4c430e-2cb0-435c-8276-cd1408d77151)
 IBUPROFENO:é indicado para reducao de febres e dores
+
 ![image](https://github.com/user-attachments/assets/536de6e5-ec6c-4e19-9361-6bebf3c4e2cd)
 DIClOFENACO:é um antiflamatorio usado para tratar dores e inflamacoes
+
 ![image](https://github.com/user-attachments/assets/02f381a5-8c6e-4d1c-be3a-0f2c7540b58e)
 LORATADINA:é um anti alergico que é usado para tratar certas alergias como rinite alergica etc...
+
 ![image](https://github.com/user-attachments/assets/c470b697-d06c-4e1f-a943-1ae5a15f2df9)
 SALBUTAMOL:é um remédio broncodilatador de ação curta, classificado como agonista de receptores beta-2 adrenérgicos. 
+
 ![image](https://github.com/user-attachments/assets/3c41daf5-1763-4688-b582-b1ca4929159c)
 AMBROXOL: ajuda nas vias respiratorias e serve para tosse 
+
 ![image](https://github.com/user-attachments/assets/f3dc76fa-01e1-41fd-a267-a69b1871a80e)
 AMOCICLINA:é usado para tratamentos de infeccoes causadas por bacterias 
+
 ![image](https://github.com/user-attachments/assets/bed9fef5-4131-468b-abe4-18a935d6b7f8)
 LOSARTANA:Trata-se de um anti-hipertensivo classificado como Bloqueador dos Receptores da Angiotensina II (BRAs)
+
 ![image](https://github.com/user-attachments/assets/a83722ac-fe9e-4da1-be9c-dac69ff703bf)
 METFORMINA:ajuda a baixar o nível de glicose no sangue para um nível tão normal quanto possível.
+
 ![image](https://github.com/user-attachments/assets/5951e483-34ad-4691-b465-cffd51e02be9)
 INSULINA:ajuda no transporte do açúcar do sangue para as células do corpo, onde será usado como energia.
+
 ![image](https://github.com/user-attachments/assets/ce4c430e-2cb0-435c-8276-cd1408d77151)
 OMEPRAZOL:é usado para tratar gastrite em etc...
+
 ![image](https://github.com/user-attachments/assets/536de6e5-ec6c-4e19-9361-6bebf3c4e2cd)
 LACTULOSE:é um agente fisiológico que ajuda no tratamento da constipação intestinal, mas também pode ser utilizada no tratamento de doenças como encefalopatia hepática. 
+
 LOPERAMIDA:auxiliam no tratamento de certos tipos de diarreia.
 ![image](https://github.com/user-attachments/assets/02f381a5-8c6e-4d1c-be3a-0f2c7540b58e)
+
 FLUOXETINA:é um antidepressivo indicado para o tratamento da depressão, ansiedade, bulimia nervosa ou transtorno obsessivo-compulsivo
 ![image](https://github.com/user-attachments/assets/c470b697-d06c-4e1f-a943-1ae5a15f2df9)
+
 LORAZEPAM:SERVE PARA ALIVIO DE ANSIEDADE DESTURBIOS E ETC..OLANZAPINA:é uma droga antipsicótica com perfil farmacológico 
 ![image](https://github.com/user-attachments/assets/3c41daf5-1763-4688-b582-b1ca4929159c)
+
 PERMETRINA:é um piretróide sintético indicado para o tratamento da infestação por piolhos
 ![image](https://github.com/user-attachments/assets/f3dc76fa-01e1-41fd-a267-a69b1871a80e)
+
 VITAMINA C:é uma vitamina que ajuda a equilibrar o sistema imunológico, manter a saúde da pele e promover a absorção de ferro dos alimentos.
 ![image](https://github.com/user-attachments/assets/bed9fef5-4131-468b-abe4-18a935d6b7f8)
+
 CALCIO:é um mineral essencial para a formação e manutenção da saúde dos ossos
 ![image](https://github.com/user-attachments/assets/a83722ac-fe9e-4da1-be9c-dac69ff703bf)
+
 MORFINA:é um remédio analgésico da classe dos opioides 
 ![image](https://github.com/user-attachments/assets/58014d03-3ff5-4982-bf27-3f9945334a99)
+
 DIAZEPAM:é indicado para alívio sintomático da ansiedade, tensão e outras queixas somáticas ou psicológicas associadas com a síndrome da ansiedade.
 ![image](https://github.com/user-attachments/assets/e771b4f4-c1ce-48ec-89d0-7852b9ef7112)
+
 ![image](https://github.com/user-attachments/assets/cb7ff6eb-eb2f-4afe-a075-edbbb96d4a1d)
+
 ![image](https://github.com/user-attachments/assets/3adb0fcc-3574-4691-84bb-7b57a49e64f3)
+
 ![image](https://github.com/user-attachments/assets/516b8830-eeff-4914-bbf0-678e75b3ca5d)
+
 ![image](https://github.com/user-attachments/assets/ac0bd3c5-2636-47e5-a765-035ef83fca1d)
 
 
