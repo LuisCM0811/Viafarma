@@ -6,19 +6,19 @@ Aqui Vendemos Remédios e Cosméticos Como:
 ![image](https://github.com/user-attachments/assets/aedd4a20-b022-456c-b455-5a313dafb968)
 
 MEDICAMENTOS GENÉRICOS: Para todas as dores no seu corpo
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/d5e819b5-7be1-4877-b2bd-df55a7661528)
 ![image](https://github.com/user-attachments/assets/66d88a37-1824-43ab-b4fa-fd31e730051e)
 ![image](https://github.com/user-attachments/assets/61ca7f5f-bc79-4c9d-8450-3f256153ee1b)
 
 PERFUMES: Para todos os gostos
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/a7cfde05-818c-4743-b4de-65b0ed210ec1)
 ![image](https://github.com/user-attachments/assets/b30af7c5-7531-4eba-a5cf-92e6ec80d1f2)
 ![image](https://github.com/user-attachments/assets/db4b57b3-bfbd-4590-870c-6786ee32c429)
 
 DESODORANTES: Para espantar todos os cheiros ruins :)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/e79d74a3-a4f9-4a7a-b5a6-7a8f03b0c998)
 ![image](https://github.com/user-attachments/assets/c2832ee1-00e1-4bee-8892-ca024f59bbfc)
 ![image](https://github.com/user-attachments/assets/614ad499-5534-42e7-8dd5-278278ad35b3)
@@ -26,7 +26,7 @@ DESODORANTES: Para espantar todos os cheiros ruins :)
 SHAMPOOS: Para todos os cabelos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MEDICAMENTOS: Para todos que possuírem enfermidades que necessitam de medicação
-
+-
 ![image](https://github.com/user-attachments/assets/5951e483-34ad-4691-b465-cffd51e02be9)
 ![image](https://github.com/user-attachments/assets/ce4c430e-2cb0-435c-8276-cd1408d77151)
 ![image](https://github.com/user-attachments/assets/536de6e5-ec6c-4e19-9361-6bebf3c4e2cd)
