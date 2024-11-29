@@ -37,7 +37,7 @@ MEDICAMENTOS:
 ![image](https://github.com/user-attachments/assets/f3dc76fa-01e1-41fd-a267-a69b1871a80e)
 ![image](https://github.com/user-attachments/assets/bed9fef5-4131-468b-abe4-18a935d6b7f8)
 ![image](https://github.com/user-attachments/assets/a83722ac-fe9e-4da1-be9c-dac69ff703bf)
-insulina![image](https://github.com/user-attachments/assets/58014d03-3ff5-4982-bf27-3f9945334a99)
+![image](https://github.com/user-attachments/assets/58014d03-3ff5-4982-bf27-3f9945334a99)
 ![image](https://github.com/user-attachments/assets/e771b4f4-c1ce-48ec-89d0-7852b9ef7112)
 ![image](https://github.com/user-attachments/assets/cb7ff6eb-eb2f-4afe-a075-edbbb96d4a1d)
 ![image](https://github.com/user-attachments/assets/3adb0fcc-3574-4691-84bb-7b57a49e64f3)
