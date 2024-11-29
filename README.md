@@ -24,7 +24,7 @@ DESODORANTES: Para espantar todos os cheiros ruins :)
 ![image](https://github.com/user-attachments/assets/614ad499-5534-42e7-8dd5-278278ad35b3)
 
 SHAMPOOS: Para todos os cabelos
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MEDICAMENTOS:
 
 
