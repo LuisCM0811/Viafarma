@@ -18,3 +18,9 @@ PERFUMES: Para todos os gostos
 ![image](https://github.com/user-attachments/assets/db4b57b3-bfbd-4590-870c-6786ee32c429)
 
 DESODORANTES: Para espantar todos os cheiros ruins :)
+
+![image](https://github.com/user-attachments/assets/fd5f44cb-9785-451d-9f16-16b8f0e60d3c)
+![image](https://github.com/user-attachments/assets/b85307af-72d4-4744-9b22-764f1ed034fb)
+![image](https://github.com/user-attachments/assets/614ad499-5534-42e7-8dd5-278278ad35b3)
+
+SHAMPOOS: Para todos os cabelos
