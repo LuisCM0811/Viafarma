@@ -24,3 +24,20 @@ DESODORANTES: Para espantar todos os cheiros ruins :)
 ![image](https://github.com/user-attachments/assets/614ad499-5534-42e7-8dd5-278278ad35b3)
 
 SHAMPOOS: Para todos os cabelos
+
+MEDICAMENTOS:
+![a-removebg-preview](https://github.com/user-attachments/assets/48a956ae-422d-4cc7-994f-9ea48040c551)
+![image](https://github.com/user-attachments/assets/5951e483-34ad-4691-b465-cffd51e02be9)
+![image](https://github.com/user-attachments/assets/ce4c430e-2cb0-435c-8276-cd1408d77151)
+![image](https://github.com/user-attachments/assets/536de6e5-ec6c-4e19-9361-6bebf3c4e2cd)
+![image](https://github.com/user-attachments/assets/02f381a5-8c6e-4d1c-be3a-0f2c7540b58e)
+![image](https://github.com/user-attachments/assets/c470b697-d06c-4e1f-a943-1ae5a15f2df9)
+![image](https://github.com/user-attachments/assets/3c41daf5-1763-4688-b582-b1ca4929159c)
+![image](https://github.com/user-attachments/assets/f3dc76fa-01e1-41fd-a267-a69b1871a80e)
+![image](https://github.com/user-attachments/assets/bed9fef5-4131-468b-abe4-18a935d6b7f8)
+![image](https://github.com/user-attachments/assets/a83722ac-fe9e-4da1-be9c-dac69ff703bf)
+insulina![image](https://github.com/user-attachments/assets/58014d03-3ff5-4982-bf27-3f9945334a99)
+![image](https://github.com/user-attachments/assets/e771b4f4-c1ce-48ec-89d0-7852b9ef7112)
+![image](https://github.com/user-attachments/assets/cb7ff6eb-eb2f-4afe-a075-edbbb96d4a1d)
+![image](https://github.com/user-attachments/assets/3adb0fcc-3574-4691-84bb-7b57a49e64f3)
+
