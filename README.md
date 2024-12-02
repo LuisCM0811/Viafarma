@@ -1,4 +1,4 @@
-<img align="center" width="100" height="100" src="C:\Users\Aluno\Downloads\viafarma.png">
+<img align="center" width="100" height="100" src="file:///C:/Users/Aluno/Downloads/viafarma.png">
 
 Olá Visitante                                                                        
 -
