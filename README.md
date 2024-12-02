@@ -1,7 +1,8 @@
 Olá Visitante                                                                        
 -
-<img src="C:\Users\Aluno\Downloads\viafarma.png" width="300" height="300">
+![image](https://github.com/user-attachments/assets/5fce3807-8f05-47a7-8166-fe2b29ba0158)
 
+![image](https://url/to/img.png)
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
 
 Aqui Vendemos Remédios e Cosméticos Como:
