@@ -1,6 +1,6 @@
 <p align="center"><img width="250" height="250" src="https://i.ibb.co/vwRzxG4/viafarma.png"></p>
 
-<p align="left">Olá Visitante</p>
+<h1 align="left">Olá Visitante</h1>
 
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
 
