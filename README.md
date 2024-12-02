@@ -50,9 +50,9 @@ MEDICAMENTOS: Para todos que possuírem condições que necessitam de medicaçã
 ![image](https://github.com/user-attachments/assets/e771b4f4-c1ce-48ec-89d0-7852b9ef7112)
 ![image](https://github.com/user-attachments/assets/cb7ff6eb-eb2f-4afe-a075-edbbb96d4a1d)
 ![image](https://github.com/user-attachments/assets/3adb0fcc-3574-4691-84bb-7b57a49e64f3)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Estes sendo os mais comuns, mas há alguns que precisam ser descritos mais profundamente
-
+-
 * DIPIRONA: para febres e dores
 
 * PARACETAMOL: é mais comumente definido como um analgésico, que alivia as dores, e um antitérmico, por combater a febre. 
