@@ -55,7 +55,7 @@ Estes sendo os mais comuns, mas há alguns que precisam ser descritos mais profu
 
 *DIPIRONA: para febres e dores
 
-*PARACETAMOL: é mais comumente definido como um analgésico, que alivia as dores, e um antitérmico, por combater a febre. 
+* PARACETAMOL: é mais comumente definido como um analgésico, que alivia as dores, e um antitérmico, por combater a febre. 
 
 *IBUPROFENO: é indicado para reducao de febres e dores
 
