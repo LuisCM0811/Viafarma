@@ -1,6 +1,7 @@
-Olá Visitante                                                                         <img src="C:\Users\Aluno\Downloads\viafarma.png" width="500" height="500">
-
+Olá Visitante                                                                        
 -
+<img src="C:\Users\Aluno\Downloads\viafarma.png" width="300" height="300">
+
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
 
 Aqui Vendemos Remédios e Cosméticos Como:
