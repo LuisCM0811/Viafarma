@@ -1,4 +1,4 @@
-Olá Visitante                                                                                ![image](https://github.com/user-attachments/assets/f54ab3cf-8f2c-4683-bb54-2ccaff227281)
+Olá Visitante                                                                                ![image](https://github.com/user-attachments/assets/5456addc-ae0b-42e0-b941-340daebcb24f)
 
 -
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
