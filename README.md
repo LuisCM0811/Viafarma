@@ -1,4 +1,5 @@
-Olá Visitante
+Olá Visitante                                                                                ![image](https://github.com/user-attachments/assets/f54ab3cf-8f2c-4683-bb54-2ccaff227281)
+
 -
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
 
