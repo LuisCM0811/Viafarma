@@ -1,4 +1,4 @@
-Olá Visitante                                                                         <img src="viafarma.png" width="500" height="500">
+Olá Visitante                                                                         <img src="C:/Users/Aluno/Downloads/viafarma.png" width="500" height="500">
 
 -
 Seja Bem-Vindo, ou Bem Vinda à Viafarma.
