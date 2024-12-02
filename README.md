@@ -53,46 +53,46 @@ MEDICAMENTOS: Para todos que possuírem condições que necessitam de medicaçã
 
 Estes sendo os mais comuns, mas há alguns que precisam ser descritos mais profundamente
 
-*DIPIRONA: para febres e dores
+* DIPIRONA: para febres e dores
 
 * PARACETAMOL: é mais comumente definido como um analgésico, que alivia as dores, e um antitérmico, por combater a febre. 
 
-*IBUPROFENO: é indicado para reducao de febres e dores
+* IBUPROFENO: é indicado para reducao de febres e dores
 
-*DIClOFENACO: é um antiflamatorio usado para tratar dores e inflamacoes
+* DIClOFENACO: é um antiflamatorio usado para tratar dores e inflamacoes
 
-*LORATADINA: é um anti alergico que é usado para tratar certas alergias como rinite alergica etc...
+* LORATADINA: é um anti alergico que é usado para tratar certas alergias como rinite alergica etc...
 
-*SALBUTAMOL:é um remédio broncodilatador de ação curta, classificado como agonista de receptores beta-2 adrenérgicos.
+* SALBUTAMOL:é um remédio broncodilatador de ação curta, classificado como agonista de receptores beta-2 adrenérgicos.
 
-*AMBROXOL: ajuda nas vias respiratorias e serve para tosse 
+* AMBROXOL: ajuda nas vias respiratorias e serve para tosse 
 
-*AMOCICLINA: é usado para tratamentos de infeccoes causadas por bacterias 
+* AMOCICLINA: é usado para tratamentos de infeccoes causadas por bacterias 
 
-*LOSARTANA: Trata-se de um anti-hipertensivo classificado como Bloqueador dos Receptores da Angiotensina II (BRAs)
+* LOSARTANA: Trata-se de um anti-hipertensivo classificado como Bloqueador dos Receptores da Angiotensina II (BRAs)
 
-*METFORMINA: ajuda a baixar o nível de glicose no sangue para um nível tão normal quanto possível.
+* METFORMINA: ajuda a baixar o nível de glicose no sangue para um nível tão normal quanto possível.
 
-*INSULINA: ajuda no transporte do açúcar do sangue para as células do corpo, onde será usado como energia.
+* INSULINA: ajuda no transporte do açúcar do sangue para as células do corpo, onde será usado como energia.
 
-*OMEPRAZOL: é usado para tratar gastrite em etc...
+* OMEPRAZOL: é usado para tratar gastrite em etc...
 
-*LACTULOSE: é um agente fisiológico que ajuda no tratamento da constipação intestinal, mas também pode ser utilizada no tratamento de doenças como encefalopatia hepática. 
+* LACTULOSE: é um agente fisiológico que ajuda no tratamento da constipação intestinal, mas também pode ser utilizada no tratamento de doenças como encefalopatia hepática. 
 
-*LOPERAMIDA: auxiliam no tratamento de certos tipos de diarreia.
+* LOPERAMIDA: auxiliam no tratamento de certos tipos de diarreia.
 
-*FLUOXETINA: é um antidepressivo indicado para o tratamento da depressão, ansiedade, bulimia nervosa ou transtorno obsessivo-compulsivo
+* FLUOXETINA: é um antidepressivo indicado para o tratamento da depressão, ansiedade, bulimia nervosa ou transtorno obsessivo-compulsivo
 
-*LORAZEPAM: Serve para alívio de ansiedade, disturbios mentais, e etc.
+* LORAZEPAM: Serve para alívio de ansiedade, disturbios mentais, e etc.
 
-*OLANZAPINA: é uma droga antipsicótica com perfil farmacológico 
+* OLANZAPINA: é uma droga antipsicótica com perfil farmacológico 
 
-*PERMETRINA: é um piretróide sintético indicado para o tratamento da infestação por piolhos
+* PERMETRINA: é um piretróide sintético indicado para o tratamento da infestação por piolhos
 
-*VITAMINA C: é uma vitamina que ajuda a equilibrar o sistema imunológico, manter a saúde da pele e promover a absorção de ferro dos alimentos.
+* VITAMINA C: é uma vitamina que ajuda a equilibrar o sistema imunológico, manter a saúde da pele e promover a absorção de ferro dos alimentos.
 
-*CALCIO: é um mineral essencial para a formação e manutenção da saúde dos ossos
+* CALCIO: é um mineral essencial para a formação e manutenção da saúde dos ossos
 
-*MORFINA: é um remédio analgésico da classe dos opioides
+* MORFINA: é um remédio analgésico da classe dos opioides
 
-*DIAZEPAM: é indicado para alívio sintomático da ansiedade, tensão e outras queixas somáticas ou psicológicas associadas com a síndrome da ansiedade.
+* DIAZEPAM: é indicado para alívio sintomático da ansiedade, tensão e outras queixas somáticas ou psicológicas associadas com a síndrome da ansiedade.
