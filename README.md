@@ -1,4 +1,4 @@
-<p align="center"><img width="100" height="100" src="https://i.ibb.co/vwRzxG4/viafarma.png"></p>
+<p align="center"><img width="250" height="250" src="https://i.ibb.co/vwRzxG4/viafarma.png"></p>
 
 Olá Visitante                                                                        
 -
