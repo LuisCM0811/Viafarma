@@ -1,6 +1,4 @@
-
-
-<p align="right">Olá Visitante<p align="center"><img width="250" height="250" src="https://i.ibb.co/vwRzxG4/viafarma.png"></p></p>
+<p align="left">Olá Visitante<p align="center"><img width="250" height="250" src="https://i.ibb.co/vwRzxG4/viafarma.png"></p></p>
 
 
 
